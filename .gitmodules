@@ -1,0 +1,15 @@
+[submodule "php-reverse-shell/autoload"]
+	path = php-reverse-shell/autoload
+	url = https://github.com/pentestmonkey/php-reverse-shell
+[submodule "python-pty-shells/autoload"]
+	path = python-pty-shells/autoload
+	url = https://github.com/infodox/python-pty-shells
+[submodule "nishang/autoload"]
+	path = nishang/autoload
+	url = https://github.com/samratashok/nishang
+[submodule "PayloadsAllTheThings/autolaod"]
+	path = PayloadsAllTheThings/autolaod
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "windows-kernel-exploits/autoload"]
+	path = windows-kernel-exploits/autoload
+	url = https://github.com/SecWiki/windows-kernel-exploits
